@@ -1,12 +1,2 @@
 ##env
-__pycache__/
-.env
-app/upload/*
-docker
-.venv
-../CrwalJapanese/main1.py
 .idea/
-app.log
-../CrwalJapanese/nhk-news-crawler-python.py
-
-run_spiders.py
